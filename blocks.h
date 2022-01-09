@@ -2,7 +2,6 @@
 static const Block blocks[] = {
   /*Icon*/ /*Command*/         /*Update Interval*/ /*Update Signal*/
   {"",      "dwb updates",     3600,               0},
-  // {"",      "dwb mediaplayer", 10,                 0},
   {"",      "dwb volume",      1,                  0},
   {"",      "dwb memory",      1,                  0},
   {"",      "dwb disk",        1,                  0},
